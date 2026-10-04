@@ -7,6 +7,8 @@ heterogeneous-competence Condorcet model with no dependence term predicts
 held-out gain at Spearman 0.80 where Kim 2026's residualized double-fault
 (arXiv:2607.20768) reaches 0.20; a tetrachoric dependence estimate adds 0.01.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23133111.svg)](https://doi.org/10.5281/zenodo.23133111) — archived release v1.0. The note itself: [doi:10.5281/zenodo.23133020](https://doi.org/10.5281/zenodo.23133020).
+
 Order of reading, which is also the order the files were written in:
 
 1. `ALREADY-DONE.md` — prior-art check before anything was run.

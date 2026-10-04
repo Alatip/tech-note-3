@@ -1,0 +1,12 @@
+{
+  "creators": [{"name": "Latipov, Aziz", "orcid": "0009-0003-8938-8223"}],
+  "license": "CC-BY-4.0",
+  "upload_type": "software",
+  "title": "tech-note-3: companion code for \"The Control Ate the Signal\"",
+  "description": "Code, data manifest and pre-registration for the technical note \"The Control Ate the Signal\" (https://alatip.github.io/the-control-ate-the-signal/, DOI 10.5281/zenodo.23133020).",
+  "keywords": ["language model ensembles", "test-time scaling", "reproducibility"],
+  "related_identifiers": [
+    {"identifier": "https://alatip.github.io/the-control-ate-the-signal/", "relation": "isSupplementTo", "scheme": "url", "resource_type": "publication-preprint"},
+    {"identifier": "10.5281/zenodo.23133020", "relation": "isSupplementTo", "scheme": "doi", "resource_type": "publication-preprint"}
+  ]
+}
